@@ -1,4 +1,4 @@
 # myProfile
 #technology stack
 #IDE
-#anuradha
+#technique
