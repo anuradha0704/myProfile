@@ -1,1 +1,2 @@
 # myProfile
+<doctype html>
