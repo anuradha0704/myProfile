@@ -1,2 +1,3 @@
 # myProfile
-<doctype html>
+#technology stack
+IDE
